@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832afcb57d6c142768bfbf2a5d56729d, type: 3}
+  m_Name: Shuttle-01
+  m_EditorClassIdentifier: 
+  shipName: Shuttle-01
+  baseShipDamage: 1
+  baseShipHp: 10
+  baseShipRepearSpeed: 9
+  shipPrefab: {fileID: 3600978937284167021, guid: 76b296cc937b44117a81ac4e697f8cff, type: 3}
